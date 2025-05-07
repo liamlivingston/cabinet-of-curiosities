@@ -16,6 +16,11 @@ This project controls LED lighting for two cabinets using Arduino Nanos. Each ca
 
 * Built with the FastLED library
 
+To get organized responses for each group, I used [this google form](https://docs.google.com/forms/d/18G9--uJXi5WSSO_25A2kZsz4Qd7XMMPq6qWhC9l4W7Q/edit) (ask Mr. Tinsley or Mr. Tocci for access)
+
+I used [this google sheet](https://docs.google.com/spreadsheets/d/1jGJj7rgvKHG3yeBdRig2TnL1rXQ8HiCC9kr8fNd_RWE/edit?usp=sharing) to organize group placement and to organize the collected info
+
+
 ---
 
 ## **Files**
