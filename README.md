@@ -7,4 +7,7 @@ Instructions:
 - Connect your computer to one of the Arduino Nanos (USB-C)
 - Edit the .ino files and upload
 
+For non-changing colors, use the set initial color part of the code. There are 5 led segments per cabinet. Set the initial values of the 5 segments by setting the RGB value in arr.
+
+
 If you need any help, email me at liamklivingston@gmail.com
